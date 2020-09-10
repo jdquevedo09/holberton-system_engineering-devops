@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --change betty:holberton _hello
+chown -c betty:holberton _hello
