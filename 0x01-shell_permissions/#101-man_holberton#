@@ -4,7 +4,7 @@
 - the first electronic general-purpose digital computer.
 .SH SYNOPSIS
 eniac
-.SH DECRIPTION
+.SH DESCRIPTION
 Eniac was Turing-complete, and able to solve "a large class of numerical problems" through reprogramming.
 .SH OPTIONS
 .B eniac
